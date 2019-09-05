@@ -1,4 +1,4 @@
-[test](##WindowsContainers)
+[test](#WindowsContainers)
 Example Voting App
 =========
 
